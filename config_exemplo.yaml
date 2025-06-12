@@ -1,0 +1,4 @@
+api_key:
+  key: "SUA CHAVE"
+model:
+  name:   "gpt-4o"    # "gpt-4o"  "gpt-3.5-turbo"  "o3-mini" "o1-mini"
