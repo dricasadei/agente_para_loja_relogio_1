@@ -1,6 +1,7 @@
 ''' 
-Aplicação Flask que ficará escutando as requisições dos clientes, funionano como uma API.
+Aplicação Flask que ficará escutando as requisições dos clientes, funionando como uma API.
 E também está codificado o agente.
+No código abaixo usa-se expressões regulares (regex) para extrair a informação do número do chamado e direcionar para procura no banco de dados.
 '''
 
 # Importação das bibliotecas
